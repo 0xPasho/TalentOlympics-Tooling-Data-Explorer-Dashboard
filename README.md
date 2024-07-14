@@ -12,8 +12,8 @@ Design and develop an explorer or dashboard that fetches data from RPC and/or AP
 
 ## Demo video
 
-```
-link
+````
+https://www.loom.com/share/813892b4193a47358d46ff30e90d6c72
 ```
 
 ## Proposed solution
@@ -47,7 +47,7 @@ This solution provides a fully integrated platform for retrieving and searching 
 
 ```shell
 pnpm install
-```
+````
 
 ## Configure environment variables
 
